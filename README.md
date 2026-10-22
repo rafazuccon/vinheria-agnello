@@ -20,6 +20,6 @@ Abra `index.html` em um navegador. Não é necessário instalar bibliotecas.
 
 ## Links
 - Repositório: https://github.com/rafazuccon/vinheria-agnello
-- GitHub Pages (ativar em Settings > Pages): https://rafazuccon.github.io/vinheria-agnello/
+- Site publicado no GitHub Pages: https://rafazuccon.github.io/vinheria-agnello/
 
 Projeto fictício feito apenas para avaliação acadêmica. O formulário não envia mensagens ou dados.
